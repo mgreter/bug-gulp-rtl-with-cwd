@@ -1,0 +1,12 @@
+{
+  "name": "buggy",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rtlcss": "^1.0.0"
+  },
+  "scripts": {
+    "prebuild": "npm install",
+    "build": "gulp"
+  }
+}
